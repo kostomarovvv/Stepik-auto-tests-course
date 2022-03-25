@@ -4,7 +4,7 @@ List of homework for this course:
 - [x] Part1: Introducing Selenium
 - [x] Part2: Useful selenium methods
 - [x] Part3: Test frameworks
-- [ ] Part4: Applying the Page Object Model pattern
+- [x] Part4: Applying the Page Object Model pattern
 
  
 
